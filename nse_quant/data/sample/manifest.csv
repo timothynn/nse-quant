@@ -1,0 +1,31 @@
+ticker,name,sector,path
+SCOM.NR,Safaricom PLC,Telecom,SCOM_NR.csv
+EQTY.NR,Equity Group Holdings,Banking,EQTY_NR.csv
+KCB.NR,KCB Group,Banking,KCB_NR.csv
+COOP.NR,Co-operative Bank,Banking,COOP_NR.csv
+ABSA.NR,Absa Bank Kenya,Banking,ABSA_NR.csv
+SCBK.NR,Standard Chartered Kenya,Banking,SCBK_NR.csv
+SBIC.NR,Stanbic Holdings,Banking,SBIC_NR.csv
+NCBA.NR,NCBA Group,Banking,NCBA_NR.csv
+DTK.NR,Diamond Trust Bank,Banking,DTK_NR.csv
+IMH.NR,I&M Holdings,Banking,IMH_NR.csv
+EABL.NR,East African Breweries,Consumer,EABL_NR.csv
+BAT.NR,British American Tobacco KE,Consumer,BAT_NR.csv
+BAMB.NR,Bamburi Cement,Construction,BAMB_NR.csv
+KEGN.NR,KenGen,Energy,KEGN_NR.csv
+KPLC.NR,Kenya Power & Lighting,Energy,KPLC_NR.csv
+TOTL.NR,TotalEnergies Marketing KE,Energy,TOTL_NR.csv
+JUB.NR,Jubilee Holdings,Insurance,JUB_NR.csv
+BRIT.NR,Britam Holdings,Insurance,BRIT_NR.csv
+CIC.NR,CIC Insurance Group,Insurance,CIC_NR.csv
+UNGA.NR,Unga Group,Agriculture,UNGA_NR.csv
+SASN.NR,Sasini PLC,Agriculture,SASN_NR.csv
+KUKZ.NR,Kakuzi,Agriculture,KUKZ_NR.csv
+NMG.NR,Nation Media Group,Media,NMG_NR.csv
+SCAN.NR,Scangroup,Media,SCAN_NR.csv
+CTUM.NR,Centum Investment,Investment,CTUM_NR.csv
+UMME.NR,Umeme Ltd,Energy,UMME_NR.csv
+CARB.NR,Carbacid Investments,Industrial,CARB_NR.csv
+CRWN.NR,Crown Paints Kenya,Industrial,CRWN_NR.csv
+KNRE.NR,Kenya Re,Insurance,KNRE_NR.csv
+LIBT.NR,Liberty Kenya Holdings,Insurance,LIBT_NR.csv

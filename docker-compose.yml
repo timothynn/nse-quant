@@ -1,0 +1,17 @@
+services:
+  api:
+    build: .
+    command: uvicorn nse_quant.api.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data/cache:/app/data/cache
+  dashboard:
+    build: .
+    command: streamlit run nse_quant/dashboard/app.py --server.address=0.0.0.0 --server.port=8501
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data/cache:/app/data/cache
+    depends_on:
+      - api
